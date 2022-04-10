@@ -1,0 +1,16 @@
+Link para Download do Git: https://git-scm.com/
+
+//git init inicia um repositorio
+//git add . adiciona todas as modificações feitas no arquivo
+//git status  verifica se o arquivo esta funcionando corretamente
+//git commit -m  grava uma mensagem/ guarda um dado
+//ls  verifica suas pastas criadas
+//ls -la  verifica se tem repositorio git
+//cd "nome da pasta"  entra em uma das pastas criadas
+//mkdir "nome da pasta"  cria uma nova pasta
+//cd ..  retorna uma das pastas
+//git log mostra o historico de todas as alterações feitas
+//git checkout (numero id do commit)  acessa um dos commits
+//git checkout master  volta pro commit atual com todas as informações
+//git clone (url do projeto)  cria uma copia do projeto pro meu computador
+//rm -rf .git apaga um repositorio
