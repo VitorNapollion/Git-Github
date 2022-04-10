@@ -1,5 +1,7 @@
 Link para Download do Git: https://git-scm.com/
 
+alguns comandos:
+
 //git init inicia um repositorio
 //git add . adiciona todas as modificações feitas no arquivo
 //git status  verifica se o arquivo esta funcionando corretamente
